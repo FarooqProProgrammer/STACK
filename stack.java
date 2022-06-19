@@ -41,6 +41,7 @@ public class stack{
     }
 
      public static void main(String[] args) {
+<<<<<<< HEAD
         Stack s=new Stack();
         s.push(2);
         s.push(4);
@@ -51,5 +52,8 @@ public class stack{
             System.out.println(s.peek());
             s.POP();
         }
+=======
+        System.out.println("HELLO WORLD");
+>>>>>>> 936be8c05461055a8681579530d6d87921aa0683
     }
  }
